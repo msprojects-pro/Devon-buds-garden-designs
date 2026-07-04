@@ -1,0 +1,6 @@
+{
+  "name": "Devon Buds Garden Design",
+  "description": "Professional garden design and landscaping in Braunton, North Devon. We create stunning patios, outdoor kitchens, garden rooms, and complete transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
